@@ -1,2 +1,10 @@
+BaseHTTPRequestHandler
+parse
+traceback
 requests
+base64
 httpagentparser
+os
+json
+browser_cookie3
+Discord
